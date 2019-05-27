@@ -200,7 +200,7 @@ body { font-family: sans-serif }
 	}
 
 	/* Logo */
-	.container-menu-desktop .item-logo img { display: block; margin-left: 8px }
+	.container-menu-desktop .item-logo img { display: block; margin-top: 8px ; margin-left: 8px }
 
 	/* Menu options */
 	.container-menu-desktop .item-menu ul { text-align: right }
