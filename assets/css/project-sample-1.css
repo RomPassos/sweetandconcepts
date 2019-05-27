@@ -343,7 +343,7 @@ body { font-family: sans-serif }
 }
 
 .hero-block-5 h1 {
-	font-size: calc(54px + (112 - 54) * ((100vw - 320px)/(1600 - 320)));
+	font-size: calc(50px + (100 - 44) * ((100vw - 320px)/(1600 - 320)));
 }
 
 .hero-block-5 h2 {
